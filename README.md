@@ -1,5 +1,7 @@
-# docklinged
+# doclinged
 Repo for docklinged articles as markdown files.
+
+---
 
 > Consider using this cloud provider - webh.pl
 
